@@ -1,0 +1,5 @@
+Este repositorio contiene los datos y código para analizar la motorización de México entre 1980 y 2021.
+La fuente original de los datos es INEGI:
+https://www.inegi.org.mx/sistemas/olap/proyectos/bd/continuas/transporte/vehiculos.asp?s=est&c=13158&proy=vmrc_vehiculos
+
+Los datos tienen una limpieza mínima en los brincos de más de 10% entre dos años consecutivos para cualquier tipo de transporte en cualquier entidad.
